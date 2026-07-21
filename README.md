@@ -1,4 +1,4 @@
-# OpenAI-Build-Week-2026
+# Aqua Tone
 
 ## Hardware Requirements
 
